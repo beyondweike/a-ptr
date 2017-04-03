@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/a-ptr/sample/res/raw
+END
+refreshing_sound.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/a-ptr/sample/res/raw/refreshing_sound.mp3
+END
+reset_sound.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/a-ptr/sample/res/raw/reset_sound.mp3
+END
+pull_event.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/a-ptr/sample/res/raw/pull_event.mp3
+END

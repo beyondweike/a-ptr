@@ -1,0 +1,55 @@
+10
+
+dir
+2
+https://a-ptr.googlecode.com/svn/trunk/a-ptr/sample/res
+https://a-ptr.googlecode.com/svn
+
+
+
+2013-11-12T04:26:16.503753Z
+2
+andyweike@tom.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+be825257-054c-d57f-6684-19d73b60fdaf
+
+values
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-nodpi
+dir
+
+raw
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
